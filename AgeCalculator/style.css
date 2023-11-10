@@ -1,0 +1,49 @@
+ body {
+      font-family: 'Arial', sans-serif;
+      background-image: url(Blue%20and%20White%20Simple%20Motivational%20Quote%20Phone%20Wallpaper.png);
+        background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .container {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+      width: 300px;
+      text-align: center;
+        opacity: 0.9;
+    }
+h4{
+    font-weight: 700;
+    font-family: sans-serif;
+
+}
+.container .dates form {
+    display: flex;
+    padding: 5px;
+    margin: 5px;
+}
+input{
+    border: 2px solid black;
+    padding: 13px;
+    margin: 20px;
+    border-radius: 5px;
+    
+}
+.button input {
+    font-weight: 600;
+    background-color: black;
+    color: aliceblue;
+}
+
+.button input:hover{
+    cursor: pointer;
+}
+
